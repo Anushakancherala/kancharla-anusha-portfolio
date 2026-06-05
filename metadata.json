@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Kancharla Anusha Portfolio",
+  "description": "AI \u0026 ML Engineer portfolio website of Kancharla Anusha, B.Tech CSE (AI \u0026 ML). Includes interactive projects, experience timeline, skills showcase, and an interactive AI Twin Chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
